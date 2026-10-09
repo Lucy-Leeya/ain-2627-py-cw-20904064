@@ -68,3 +68,7 @@ python main.py
 
 CI 只允许修改 `src/main/**`、`README.md` 与 `.agent-sessions/**`（AI 会话归档）——其余文件改了直接红；autopep8 `--diff` 非空即败。提交方式（push、问卷、commit 粒度）见题面"提交与验收"一节。
 
+机器人作业完成总结
+
+完成Q1到Q5的全部代码作业，本地运行“pytest”作业，结果为“25passed，3skipped”，测试已全部通过。本次作业在AI辅助下完成，主要运用于代码生成，报错调试和逻辑修复，因电脑问题无法安装AI会话记录，所有与本次作业相关的AI记录已保存至"AI_USAGE.md"中。（为DeepSeek分享链接）
+
